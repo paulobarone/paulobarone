@@ -9,8 +9,6 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulobarone&theme=dark&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
-
 # 🔎 Sobre mim
 
 <ul>
