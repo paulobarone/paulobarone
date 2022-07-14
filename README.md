@@ -1,3 +1,30 @@
+# 💫 About Me:
+🌱 Neste momento estou aprendendo JavaScript;<br>📚 Estou me aprofundando em: HTML5 e CSS3;<br>👨‍🎓 Atualmente estudando na Alura;<br>⚡ Pretendo estudar ReactJS, Angular, NodeJS, TypeScript e Sass;
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Snow#9933) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Paulo Barone) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=paulobarone&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paulobarone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobarone&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=paulobarone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
+
+
+
+
+
+
+
 ### Opa! Eaí? Me chamo Paulo, mas sou conhecido por Snow também! 👋😎
 
 Um jovem de 17 anos buscando um futuro na área de tecnologia, mais precisamente, na área do Front-End. </br>
