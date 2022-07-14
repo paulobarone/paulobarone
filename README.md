@@ -1,4 +1,4 @@
-### Opa! Eaí? Me chamo Paulo, mas sou conhecido por Snow também! 👋😎
+### Opa! Eaí? Me chamo Paulo, também conhecido como Snow! 👋😎
 
 Um jovem de 17 anos buscando um futuro na área de tecnologia, mais precisamente, na área do Front-End. </br>
 Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e assistir séries/animes em meu tempo livre também!
