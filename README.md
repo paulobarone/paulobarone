@@ -4,8 +4,8 @@ Um jovem de 17 anos buscando um futuro na área de tecnologia, mais precisamente
 Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e assistir séries/animes em meu tempo livre também!
 
 <div style: display: inline-block>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="HTML5" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 
 # 🔎 Sobre mim
