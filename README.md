@@ -21,6 +21,5 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 
 <ul>
   <li>🎮 Discord: Snow#9933</li>
-  <li></li>
-  <li></li>
+  <li>📄 Linkedin: <a href="linkedin.com/in/paulo-barone-795a81244">Paulo Barone</></li>
 </ul>
