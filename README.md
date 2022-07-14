@@ -12,7 +12,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 
 <ul>
   <li>🌱 Neste momento estou aprendendo JavaScript;</li>
-  <li>📚 Sei utilizar razoavelmente bem: HTML5 e CSS3;</li>
+  <li>📚 Estou me aprofundando em: HTML5 e CSS3;</li>
   <li>👨‍🎓 Atualmente estudando na Alura;</li>
   <li>⚡ Pretendo estudar ReactJS, Angular, NodeJS, TypeScript e Sass;</li>
 </ul>
