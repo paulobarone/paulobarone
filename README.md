@@ -8,6 +8,8 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
   <img alt="CSS3" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulobarone&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 # 🔎 Sobre mim
 
 <ul>
