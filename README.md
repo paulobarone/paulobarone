@@ -10,7 +10,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 </div>
 
 <div style: display: flex; justify-content: center>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulobarone&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paulobarone&theme=dark&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
 </div>
 
 # 🔎 Sobre mim
