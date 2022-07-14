@@ -9,7 +9,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
-# 🔎 Sobre mim
+# Sobre mim
 
 <ul>
   <li>🌱 Neste momento estou aprendendo JavaScript;</li>
@@ -18,7 +18,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
   <li>⚡ Pretendo estudar ReactJS, Angular, NodeJS, TypeScript e Sass;</li>
 </ul>
 
-# 🔎 Onde me econtrar
+# Onde me econtrar
 
 <ul>
   <li>🎮 Discord: Snow#9933;</li>
