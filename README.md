@@ -2,7 +2,7 @@
 
 ### Opa! Eaí? Me chamo Paulo, também conhecido como Snow! 👋😎
 
-Sou um jovem de 17 anos buscando um futuro na área da tecnologia, mais precisamente, no Front-End. </br>
+Sou um jovem de 17 anos buscando um futuro na área de tecnologia! </br>
 Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e assistir séries/animes em meu tempo livre também!
 
 <div style: display: flex; gap: 30px>
@@ -15,6 +15,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 # Sobre mim
 
 <ul>
+  <li>✨ Estou interessado no Front-End!</li>
   <li>🌱 Neste momento estou aprendendo JavaScript;</li>
   <li>📚 Estou me aprofundando em HTML5 e CSS3;</li>
   <li>👨‍🎓 Atualmente estudando na Alura;</li>
