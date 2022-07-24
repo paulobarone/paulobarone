@@ -15,7 +15,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 # Sobre mim
 
 <ul>
-  <li>✨ Estou interessado no Front-End!</li>
+  <li>✨ Estou interessado no Front-End;</li>
   <li>🌱 Neste momento estou aprendendo JavaScript;</li>
   <li>📚 Estou me aprofundando em HTML5 e CSS3;</li>
   <li>👨‍🎓 Atualmente estudando na Alura;</li>
