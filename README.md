@@ -2,7 +2,7 @@
 
 ### Opa! Eaí? Me chamo Paulo, também conhecido como Snow! 👋😎
 
-Sou um jovem de 17 anos buscando um futuro na área de tecnologia! </br>
+Sou um jovem de 18 anos buscando um futuro na área de tecnologia! </br>
 Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e assistir séries/animes em meu tempo livre também!
 
 <div style: display: flex; gap: 30px>
