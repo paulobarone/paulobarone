@@ -26,5 +26,5 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 <ul>
   <li>🎮 Discord: Snow#9933;</li>
   <li>📄 Linkedin: <a href="https://linkedin.com/in/paulo-barone-795a81244">Paulo Barone</a>;</li>
-  <li>‍🎓 Alura: <a href="https://cursos.alura.com.br/user/paulomarquesbaronefilho">Paulo Marques Barone Filho</a>;</li>
+  <li>‍🎓 Alura: <a href="https://cursos.alura.com.br/user/paulobarone">Paulo Marques Barone Filho</a>;</li>
 </ul>
