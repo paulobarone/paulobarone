@@ -19,7 +19,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
 <ul>
   <li>✨ Estou interessado no Front-End;</li>
   <li>👨‍🎓 Atualmente estudando na Alura;</li>
-  <li>⚡ Pretendo estudar ReactJS, Angular, NodeJS, TypeScript e Sass;</li>
+  <li>⚡ Pretendo estudar React, Angular, NodeJS, TypeScript e Sass;</li>
 </ul>
 
 # Onde me econtrar
