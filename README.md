@@ -11,6 +11,7 @@ Sou um grande entusiasta quando o assunto é programação, mas adoro jogar e as
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" alt="scss logo"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="react logo" />
+  <img src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components" width="52" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52px" height="40" />
 </div>
 
