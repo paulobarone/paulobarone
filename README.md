@@ -3,17 +3,17 @@
 ### Opa! Eaí? Me chamo Paulo! 👋😎
 
 Sou um jovem de 18 anos buscando um futuro na área de tecnologia! </br>
-Sou um grande entusiasta quando o assunto é programação, adoro aprender coisas que de fato me interesso, e essa área com certeza é uma delas!
+Sou um grande entusiasta quando o assunto é programação, adoro aprender coisas que de fato me interesso, e essa área com certeza é uma delas! </br>
 Descobri minha paixão pela área em minhas primeiras linhas de código, onde consegui resolver problemas de outras pessoas e automatizar algumas tarefas;
 
 <div style: display: flex; gap: 30px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" alt="scss logo"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="52" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="52" height="40" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="react logo" />
   <img src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components" width="52" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52px" height="40" />
 </div>
 
 # Sobre mim
@@ -21,7 +21,7 @@ Descobri minha paixão pela área em minhas primeiras linhas de código, onde co
 <ul>
   <li>✨ Estudando React.js, TypeScript e Node.js;</li>
   <li>👨‍🎓 Atualmente estudando na Alura;</li>
-  <li>⚡ Pretendo estudar Back-end em breve;</li>
+  <li>⚡ Pretendo estudar mySql em breve;</li>
 </ul>
 
 # Onde me econtrar
