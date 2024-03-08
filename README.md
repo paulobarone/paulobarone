@@ -17,16 +17,15 @@ Descobri minha paixão pela área em minhas primeiras linhas de código, onde co
 
 # Sobre mim
 
-<ul>
-  <li>✨ Estudando React.js, TypeScript e Node.js;</li>
-  <li>👨‍🎓 Atualmente estudando na Alura;</li>
-  <li>⚡ Pretendo estudar mySql em breve;</li>
-</ul>
+<div>
+  <div>📖 Áreas de Estudo: Atualmente, me concentro no front-end, mas pretendo expandir meu conhecimento também para o back-end, pois tenho como meta me tornar um desenvolvedor full-stack.</div>
+  <div>🔍 Em Busca de Oportunidades: Estou ativamente buscando oportunidades de trabalho onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!</div>
+</div>
 
 # Onde me econtrar
 
 <ul>
   <li>🌐 Site: <a href="https://www.paulobarone.com.br">https://www.paulobarone.com.br</a>;</li>
   <li>📄 Linkedin: <a href="https://www.linkedin.com/in/paulobarone/">Paulo Barone</a>;</li>
-  <li>‍🎓 Alura: <a href="https://cursos.alura.com.br/user/paulobarone">Paulo Marques Barone Filho</a>;</li>
+  <li>‍🎓 E-mail: paulobaronedev@gmail.com</li>
 </ul>
