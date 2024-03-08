@@ -26,6 +26,7 @@ Descobri minha paixão pela área em minhas primeiras linhas de código, onde co
 # Onde me econtrar
 
 <ul>
+  <li>🌐 Site: <a href="https://www.paulobarone.com.br">Paulo Barone | Portfólio</a>;</li>
   <li>📄 Linkedin: <a href="https://www.linkedin.com/in/paulobarone/">Paulo Barone</a>;</li>
   <li>‍🎓 Alura: <a href="https://cursos.alura.com.br/user/paulobarone">Paulo Marques Barone Filho</a>;</li>
 </ul>
