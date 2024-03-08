@@ -6,7 +6,7 @@ Sou um jovem de 19 anos buscando um futuro na área de tecnologia! </br>
 Sou um grande entusiasta quando o assunto é programação, adoro aprender coisas que de fato me interesso, e essa área com certeza é uma delas! </br>
 Descobri minha paixão pela área em minhas primeiras linhas de código, onde consegui resolver problemas de outras pessoas e automatizar algumas tarefas;
 
-<div style: display: flex; gap: 30px>
+<div style: display: flex; gap: 32px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="react logo" />
@@ -17,7 +17,7 @@ Descobri minha paixão pela área em minhas primeiras linhas de código, onde co
 
 # Sobre mim
 
-<div>
+<div style: display: flex; flex-direction: column; gap: 32px>
   <div>📖 Áreas de Estudo: Atualmente, me concentro no front-end, mas pretendo expandir meu conhecimento também para o back-end, pois tenho como meta me tornar um desenvolvedor full-stack.</div>
   <div>🔍 Em Busca de Oportunidades: Estou ativamente buscando oportunidades de trabalho onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!</div>
 </div>
