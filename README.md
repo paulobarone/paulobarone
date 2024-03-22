@@ -18,7 +18,7 @@ Descobri minha paixão pela área em minhas primeiras linhas de código, onde co
 # Sobre mim
 
 <div>
-  <div><b>📖 Áreas de Estudo</b>: Atualmente, me concentro no front-end, mas pretendo expandir meu conhecimento também para o back-end, pois tenho como meta me tornar um desenvolvedor full-stack.</div>
+  <div><b>📖 Áreas de Estudo</b>: Atualmente, me concentro no front-end, mas pretendo expandir meu conhecimento para o back-end, pois tenho como meta me tornar um desenvolvedor full-stack.</div>
   <br />
   <div><b>🔍 Em Busca de Oportunidades</b>: Estou ativamente buscando oportunidades de trabalho onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!</div>
 </div>
