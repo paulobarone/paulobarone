@@ -1,10 +1,6 @@
 <img src="https://user-images.githubusercontent.com/98724682/179137161-fa6a248e-4517-4da6-804d-5644e629b821.svg" width="410px" height="250px" align="right">
 
-### Opa! Eaí? Me chamo Paulo! 👋😎
-
-Sou um jovem de 19 anos buscando um futuro na área de tecnologia! </br>
-Sou um grande entusiasta quando o assunto é programação, adoro aprender coisas que de fato me interesso, e essa área com certeza é uma delas! </br>
-Descobri minha paixão pela área em minhas primeiras linhas de código, onde consegui resolver problemas de outras pessoas e automatizar algumas tarefas;
+# Sobre mim
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo" title="HTML5"  />
@@ -15,7 +11,7 @@ Descobri minha paixão pela área em minhas primeiras linhas de código, onde co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="40" alt="nodejs logo" title="Node.js" />
 </div>
 
-# Sobre mim
+</br>
 
 <div>
   <div><b>📖 Áreas de Estudo</b>: Atualmente, estudando Análise e Desenvolvimento de Sistemas pela FIAP!</div>
