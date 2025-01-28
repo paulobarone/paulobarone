@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/98724682/179137161-fa6a248e-4517-4da6-804d-5644e629b821.svg" width="410px" height="250px" align="right">
-
 # Sobre mim
 
 <div>
