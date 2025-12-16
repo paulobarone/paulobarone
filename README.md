@@ -5,7 +5,7 @@
   <br />
   <div><b>🔍 Em Busca de Oportunidades</b>: Estou ativamente buscando oportunidades de trabalho onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!</div>
   <br />
-  <div><b>⚙️ Tecnologias</b>: HTML5, CSS3, JavaScript, TypeScript, NextJs, ReactJS, Node.js, MySQL, Git e Java!</div>
+  <div><b>⚙️ Tecnologias</b>: HTML5, CSS3, JavaScript, TypeScript, NextJs, ReactJS, Node.js, MySQL e Git!</div>
 </div>
 
 <br />
@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="40" alt="Logo do Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="52" height="40" alt="Logo do MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="40" alt="Logo do Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="52" height="40" alt="Logo do Java" title="Java" />
 </div>
 
 # Onde me econtrar
