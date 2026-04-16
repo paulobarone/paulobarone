@@ -3,7 +3,7 @@
 <div>
   <div><b>📖 Áreas de Estudo</b>: Atualmente, estudando Análise e Desenvolvimento de Sistemas pela FIAP!</div>
   <br />
-  <div><b>🔍 Em Busca de Oportunidades</b>: Estou ativamente buscando oportunidades de trabalho onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!</div>
+  <div><b>🔍 Em Busca de Oportunidades</b>: Estou ativamente buscando oportunidades onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!</div>
   <br />
   <div><b>⚙️ Tecnologias</b>: HTML5, CSS3, JavaScript, TypeScript, NextJs, ReactJS, Node.js, MySQL e Git!</div>
 </div>
