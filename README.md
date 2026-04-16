@@ -6,7 +6,7 @@
 
 **⚙️ Tecnologias**: HTML5, CSS3, JavaScript, TypeScript, NextJs, ReactJS, Node.js, MySQL e Git!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,mysql,postgres,git)](https://skillicons.dev)
 
 # Onde me encontrar
 
