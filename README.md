@@ -4,9 +4,9 @@
 
 **🔍 Em Busca de Oportunidades**: Estou ativamente buscando oportunidades onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!
 
-**⚙️ Tecnologias**: HTML5, CSS3, JavaScript, TypeScript, NextJs, ReactJS, Node.js, Nest.js, MySQL, PostgreSQL e Git!
+**⚙️ Tecnologias**: HTML5, CSS3, JavaScript, TypeScript, NextJs, ReactJS, Node.js, Nest.js, Prisma, MySQL, PostgreSQL e Git!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,nestjs,mysql,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,nestjs,prisma,mysql,postgres,git)](https://skillicons.dev)
 
 # Onde me encontrar
 
