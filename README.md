@@ -1,6 +1,6 @@
 # Sobre mim
 
-**📖 Áreas de Estudo**: Atualmente, estudando Análise e Desenvolvimento de Sistemas pela FIAP!
+**📖 Áreas de Estudo**: Atualmente, estudando Inteligência Artificial & Machine Learning!
 
 **🔍 Em Busca de Oportunidades**: Estou ativamente buscando oportunidades onde eu possa aplicar minhas habilidades, aprender e crescer profissionalmente. Também estou disponível para trabalhos freelancers. Vamos trabalhar e criar algo extraordinário juntos!
 
